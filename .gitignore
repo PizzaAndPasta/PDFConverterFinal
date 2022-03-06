@@ -1,0 +1,6 @@
+﻿################################################################################
+# Diese .gitignore-Datei wurde von Microsoft(R) Visual Studio automatisch erstellt.
+################################################################################
+
+/PDFConverter.Demo/PDFConverter.Demo/bin/Debug/netcoreapp3.1
+/PDFConverter.Demo/PDFConverter.Demo/obj
